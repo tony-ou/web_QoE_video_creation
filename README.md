@@ -2,6 +2,7 @@
 This repo gives examples on using Moviepy to customize webpage loading videos.
 
 Tutorial is in: https://github.com/tony-ou/web_QoE_video_creation/blob/main/video_creation.ipynb which contains
+- How to create a video from a webpage image
 - how to delay certain region of a page
 - how to relatively speedup region of a page
 - how to add browser header and countdown timers to videos
