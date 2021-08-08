@@ -1,4 +1,8 @@
 # web_QoE_video_creation
-To run this you should install following python packges: moviepy, opencv-python, pandas
+This repo gives examples on using Moviepy to customize webpage loading videos.
 
-Also you need to download the webgaze_videos dataset and unzip it and put it under the root folder.
+Tutorial is in: https://github.com/tony-ou/web_QoE_video_creation/blob/main/video_creation.ipynb which contains
+- how to delay certain region of a page
+- how to relatively speedup region of a page
+- how to add browser header and countdown timers to videos
+- Demo on how to create test videos for "separate_poke2" campaign 
